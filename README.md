@@ -6,15 +6,15 @@
 
 - 🔭 I’m currently working on **E-commerce project and Spotify app**
 
-- 🌱 I’m currently learning **Full-stack development, MERN**
+- 🌱 I’m currently learning **Full-stack development, MERN and PERN stacks**
 
-- 💬 Ask me about **JavaScript, React, Node.js, Express.js**
+- 💬 Ask me about **JavaScript, React, Node.js, Express.js, Nest.js**
 
 - 📫 How to reach me **evgennevidim@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15XEThwOpnuCRdcJP8iMdZ_R9MkxbD2Sx/view?usp=sharing](https://drive.google.com/file/d/15XEThwOpnuCRdcJP8iMdZ_R9MkxbD2Sx/view?usp=sharing)
 
-- ⚡ Fun fact **I think I'm a creative developer**
+- ⚡ Interesting fact **I think I'm a creative developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
