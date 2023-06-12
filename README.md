@@ -4,13 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yevkod&label=Profile%20views&color=0e75b6&style=flat" alt="yevkod" /> </p>
 
-- 🔭 I’m currently working on **E-commerce project and Spotify app**
-
-- 🌱 I’m currently learning **Front-End Development**
+- 🌱 I'm currently open to hiring on Upwork
 
 - 💬 Ask me about **JavaScript, React, Next.js, Redux**
-
-- 📫 How to reach me **evgennevidim@gmail.com**
 
 - ⚡ Interesting fact **I think I'm a creative developer**
 
