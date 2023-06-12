@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **evgennevidim@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15XEThwOpnuCRdcJP8iMdZ_R9MkxbD2Sx/view?usp=sharing](https://drive.google.com/file/d/15XEThwOpnuCRdcJP8iMdZ_R9MkxbD2Sx/view?usp=sharing)
-
 - ⚡ Interesting fact **I think I'm a creative developer**
 
 <h3 align="left">Connect with me:</h3>
