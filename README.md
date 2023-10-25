@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yevkod&label=Profile%20views&color=0e75b6&style=flat" alt="yevkod" /> </p>
 
-- 🌱 I'm currently open to hiring on Upwork
+- 🌱 I'm currently learn new technologies
 
 - 💬 Ask me about **JavaScript, React, Next.js, Redux**
 
