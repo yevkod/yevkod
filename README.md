@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yevgen Nevidim</h1>
+<h1 align="center">Hi 👋, I'm Yevgen</h1>
 <h3 align="center">A passionate Front-End Developer from Kyiv</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
