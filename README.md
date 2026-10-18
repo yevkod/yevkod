@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning new technologies
 
-- 💬 Ask me about **JavaScript, React, Next.js, Redux**
+- 💬 Ask me about **JavaScript, React, Next.js, Zustand, Redux**
 
 - ⚡ **I'm a creative developer**
 
